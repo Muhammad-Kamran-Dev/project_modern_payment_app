@@ -10,7 +10,7 @@ https://modernpayapp.netlify.app/
 
 
 ## Screenshots
-![App Screenshot](https://i.ibb.co/2kP6cs9/s1.png)
+![App Screenshot](https://i.ibb.co/mctBhXj/s1.png)
 
 ## Run Locally
 
