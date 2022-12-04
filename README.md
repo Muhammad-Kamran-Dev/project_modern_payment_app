@@ -1,7 +1,7 @@
 
 # Payment App
 
-Frontend Design For GPT-3 OpenAI which can performs a variety of natural language tasks, Codex, which translates natural language to code.
+Frontend Design For Payment App with a modern design completely responsive.
 
 
 ## Demo
@@ -10,14 +10,14 @@ https://modernpayapp.netlify.app/
 
 
 ## Screenshots
-![App Screenshot](https://camo.githubusercontent.com/c4493d95984ace14ebef070617d63d2fa8068b02a1359d1a311b175ce623026b/68747470733a2f2f692e6962622e636f2f424b31486e30782f53637265656e73686f742d323032322d30382d30382d61742d342d30352d34382d504d2e706e67)
+![App Screenshot](https://i.ibb.co/mctBhXj/s1.png)
 
 ## Run Locally
 
 Clone the project
 
 ```bash
-  git clone https://github.com/Muhammad-Kamran-Dev/gpt-3.git
+  git clone https://github.com/Muhammad-Kamran-Dev/project_modern_payment_app.git
 ```
 
 Go to the project directory
